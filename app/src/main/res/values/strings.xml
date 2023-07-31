@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CONTROL E</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_consumption">Consumo</string>
+    <string name="title_records">Registros</string>
+    <string name="title_consultations">Consultas</string>
+    <string name="title_technicalsupport">Soporte técnico</string>
+    <string name="tus_dispositivos_home">Tus dispositivos</string>
+    <string name="frase_home">Recuerda: El ahorro es la clave para la libertad financiera</string>
+    <string name="saludo_home">Hola,</string>
+
+    <string-array name="voltageArray">
+        <item>24 V</item>
+        <item>110 V</item>
+        <item>220 V</item>
+    </string-array>
+    <string-array name="hoursArray">
+        <item>1 hr</item>
+        <item>3 hrs</item>
+        <item>6 hrs</item>
+        <item>12 hrs</item>
+        <item>24 hrs</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

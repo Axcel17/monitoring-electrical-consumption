@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_consumption"
+        android:icon="@drawable/battery_charge"
+        android:title="@string/title_consumption" />
+
+    <item
+        android:id="@+id/navigation_records"
+        android:icon="@drawable/graph"
+        android:title="@string/title_records" />
+
+    <item
+        android:id="@+id/navigation_consultations"
+        android:icon="@drawable/customer_service"
+        android:title="@string/title_consultations" />
+
+    <item
+        android:id="@+id/navigation_technicalsuppport"
+        android:icon="@drawable/technical_support"
+        android:title="@string/title_technicalsupport" />
+</menu>

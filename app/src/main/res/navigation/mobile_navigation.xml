@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.appcontrole.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_consumption"
+        android:name="com.example.appcontrole.ui.consumption.ConsumptionFragment"
+        android:label="@string/title_consumption"
+        tools:layout="@layout/fragment_consumption" />
+
+    <fragment
+        android:id="@+id/navigation_records"
+        android:name="com.example.appcontrole.ui.records.RecordsFragment"
+        android:label="@string/title_records"
+        tools:layout="@layout/fragment_records" />
+
+    <fragment
+        android:id="@+id/navigation_consultations"
+        android:name="com.example.appcontrole.ui.consultations.ConsultationsFragment"
+        android:label="@string/title_consultations"
+        tools:layout="@layout/fragment_consultations" />
+
+    <fragment
+        android:id="@+id/navigation_technicalsuppport"
+        android:name="com.example.appcontrole.ui.technicalsupport.TechnicalSupportFragment"
+        android:label="@string/title_technicalsupport"
+        tools:layout="@layout/fragment_technical_support" />
+
+</navigation>

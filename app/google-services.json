@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601128809383",
+    "firebase_url": "https://controle-0db-default-rtdb.firebaseio.com",
+    "project_id": "controle-0db",
+    "storage_bucket": "controle-0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601128809383:android:4e3e90ba21ee2c74b73c82",
+        "android_client_info": {
+          "package_name": "com.example.appcontrole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601128809383-fi0vh8581db3pr4ditsblkhc4kblt4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_TQIdTYfVO084Jejlz1PpYl773EkCFsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601128809383-fi0vh8581db3pr4ditsblkhc4kblt4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
